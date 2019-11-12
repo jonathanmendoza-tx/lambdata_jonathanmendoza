@@ -267,6 +267,16 @@ career here, you'll have to answer the following:
   improve this situation?
 
 Answer both of these questions (baseline ~5 sentences) here in text.
+```
+Code reviews are important because it allows us to see different ways of thinking
+and helps highlight possible areas of improvement for your code writing.
+I appreciate when people are able to simplify my work and I'm always on the look out 
+for areas of repetition or different methods of processing the task at hand.
+
+Containers set a base upon which code/applications can be run and are compatible across
+different operating systems. Different OS' require different methods of running code and
+containers allow us to neatly package and distribute classes, attributes and methods.
+```
 
 ### Part 8 - Turn it in!
 
